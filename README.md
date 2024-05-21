@@ -1,0 +1,2 @@
+# k-framenet
+Korean FrameNet
